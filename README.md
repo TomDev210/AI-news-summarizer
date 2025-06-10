@@ -4,43 +4,47 @@
 
 AI-News-Summariser is a tool designed to automatically generate concise summaries of news articles using artificial intelligence. Stay informed without spending too much time reading lengthy articles.
 
->[!CAUTION]
->Ensure that you use this tool responsibly. Respect the copyrights and terms of use of the news sources.
+### Features 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- 🌐 Scrape and summarize live news articles
+- ✨ Automatic language detection and summarization
+- 🌙 Dark mode and 🌞 Light mode support
+- 📷 Clean UI with branding and responsive design
+- 📦 Simple and lightweight Flask application
 
-### Features
-* Automatic summarization of news articles.
-* Support for multiple news sources.
-* Easily accessible web interface.
-Export summarized content for offline reading.
+## 🛠️ Technologies Used
 
-### Built With
-* Python
-* Newspaper3k
-* Flask
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- Python
+- Flask – Web framework
+- newspaper3k – News content extraction
+- transformers (HuggingFace) – Summarization model
+- HTML/CSS – Front-end with dark/light themes
+  
 ## Getting Started
 AI-News-Summariser can be installed and used on various platforms. Follow the steps below to get started.
 
+## 🖥️ How to Run the Project
 
-### Installation
+### ✅ Prerequisites
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Oxlac/AI-News-Summariser.git
-   ```
-2. Install Requirements
-   ```sh
-    pip install -r requirements.txt
-   ```
-3. Run the app
-   ```sh
-    python app.py
-   ```
+- Python 3.7 or above
+- `pip` (Python package installer)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### 📦 Installation Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/AI-News-Summariser.git
+   cd AI-News-Summariser
+   
+2. **Install Dependencies**
+pip install -r requirements.txt
+
+4. **Run the App**
+python app.py
+
+6. **Open a browser and visit:**
+http://127.0.0.1:5000/
 
 ## Future features and improvements
 
