@@ -54,9 +54,3 @@ http://127.0.0.1:5000/
 - [ ] Mobile app version.
 - [ ] Improvements in summarization accuracy.
 
-## Contact
-Your Name - [@Oxlac_](https://twitter.com/Oxlac_) - contact@oxlac.com
-
-Project Link: [https://github.com/shinchan210/AI-news-summarize/](https://github.com/shinchan210/AI-news-summarize)
-
-Developer: [Aadityaa Nagarajan](https://aadinagarajan.com)
