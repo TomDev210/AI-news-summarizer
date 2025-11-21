@@ -2,7 +2,9 @@
 
 
 AI-News-Summariser is a tool designed to automatically generate concise summaries of news articles using artificial intelligence. Stay informed without spending too much time reading lengthy articles.
+
 <img src="pic(1).png" width="600">
+<br>
 <img src="pic(2).png" width="600">
 
 ### Features 
