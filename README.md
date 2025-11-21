@@ -1,11 +1,20 @@
 ## About The Project
 
 
-AI-News-Summariser is a tool designed to automatically generate concise summaries of news articles using artificial intelligence. Stay informed without spending too much time reading lengthy articles.
+An intelligent web application that extracts, analyzes, and summarizes news articles using AI.
+Built with Flask, Python, and modern UI components, this tool allows users to quickly generate clear and concise summaries from any news URL.
 
 <img src="pic(1).png" width="600">
 <br>
 <img src="pic(2).png" width="600">
+
+### 📌 How It Works
+
+- User enters a news article URL.
+- The backend scrapes the article content.
+- AI/NLP model processes the text.
+- Summary is generated (Basic or Detailed).
+- Output is displayed on the webpage in selected language.
 
 ### Features 
 
@@ -55,6 +64,5 @@ http://127.0.0.1:5000/
 - [ ] Tackling corner cases where some news articles won't be parsed properly.
 - [ ] Customizable summarization algorithms.
 - [ ] User accounts and preferences.
-- [ ] Mobile app version.
 - [ ] Improvements in summarization accuracy.
 
