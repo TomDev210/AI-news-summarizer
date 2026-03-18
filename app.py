@@ -11,6 +11,11 @@ import os
 
 nltk.download('punkt')
 
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
