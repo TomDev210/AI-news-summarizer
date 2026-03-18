@@ -7,3 +7,4 @@ validators
 requests
 lxml
 lxml_html_clean
+googletrans==4.0.0-rc1
