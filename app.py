@@ -9,8 +9,6 @@ from googletrans import Translator
 from nltk.tokenize import sent_tokenize
 import os
 
-nltk.download('punkt')
-
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
